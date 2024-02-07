@@ -1,0 +1,16 @@
+.container {
+    position: relative;
+    text-align: center;
+    padding: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+#calc_button {
+    position: relative;
+    margin-top: 20px;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: larger;
+    margin-bottom: 20px;
+}
